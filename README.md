@@ -4,4 +4,4 @@
  [Book Store API Using Laravel](https://medium.com/p/5f2d7ae9f0fb)
  
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/5zRm_ESsGro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/5zRm_ESsGro/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-8RDFTkha7fjeV0LyfIp1sUk7og)](https://www.youtube.com/watch?v=5zRm_ESsGro&t=29s)
